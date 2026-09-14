@@ -77,7 +77,7 @@ in den Einstellungen).
   Bild-Download per langem Tippen, Nur-Text-Ansicht für externe Links.
 - **Datensparsam:** kein Server, keine Analyse, kein automatischer Kontozugriff.
 
-### Bekannte Probleme (Stand 0.50.0)
+### Bekannte Probleme (Stand 0.54.0)
 
 Ein Heimprojekt, im Alltag stabil, aber nicht überall zu 100 % perfekt:
 
@@ -86,7 +86,10 @@ Ein Heimprojekt, im Alltag stabil, aber nicht überall zu 100 % perfekt:
   dauert es kurz (unter einer Sekunde), bis der Posten-/Antworten-Knopf
   verschwindet. GIFs starten nicht von selbst.
 - **X:** Ein Beitrag oder Video braucht gelegentlich einen kurzen Moment zum
-  Laden. Fotos und Bilder werden problemlos angezeigt.
+  Laden. Fotos und Bilder werden problemlos angezeigt. Die schmale
+  **Spaces-/Live-Leiste** ganz oben im Feed lässt sich derzeit nicht
+  zuverlässig ausblenden – X baut sie ohne festes Merkmal und nur zeitweise ein;
+  sie stört wenig und bleibt vorerst so.
 - **Facebook:** Das Antwortfeld ist beim Öffnen kurz sichtbar, bevor es
   ausgeblendet wird. Manche Bilder im Feed sind links und rechts minimal
   beschnitten (leichter Overscan).
@@ -155,7 +158,7 @@ the top right of the welcome screen or in the settings).
   long press, text-only view for external links.
 - **Data-frugal:** no server, no analytics, no automatic account access.
 
-### Known issues (as of 0.50.0)
+### Known issues (as of 0.54.0)
 
 A hobby project, stable in daily use, but not perfect everywhere:
 
@@ -163,7 +166,9 @@ A hobby project, stable in daily use, but not perfect everywhere:
   swipe fixes it. When opening a post it takes a brief moment (under a second)
   for the post/reply button to disappear. GIFs don't autostart.
 - **X:** A post or video occasionally needs a brief moment to load. Photos and
-  images display without issues.
+  images display without issues. The thin **Spaces/live bar** at the very top of
+  the feed can't currently be hidden reliably – X builds it without any stable
+  marker and only intermittently; it's barely intrusive and stays for now.
 - **Facebook:** The reply field is briefly visible when opening before it's
   hidden. Some images in the feed are slightly cut off left and right (minor
   overscan).
