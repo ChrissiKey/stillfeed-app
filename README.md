@@ -57,7 +57,8 @@ Ein Heimprojekt, im Alltag stabil, aber nicht überall zu 100 % perfekt:
 - **X:** Ein Beitrag oder Video braucht gelegentlich einen kurzen Moment zum
   Laden. Fotos und Bilder werden problemlos angezeigt.
 - **Facebook:** Das Antwortfeld ist beim Öffnen kurz sichtbar, bevor es
-  ausgeblendet wird (wie bei Reddit).
+  ausgeblendet wird (wie bei Reddit). Manche Bilder im Feed sind links und
+  rechts minimal beschnitten (leichter Overscan).
 - **Instagram:** Nach dem Ausblenden einer Anzeige bleibt eine kleine dunkle
   Lücke stehen (stört im Alltag kaum). Werbung wird nicht immer sofort
   erkannt; beim schnellen Scrollen kann das auffallen. Ein optionaler
