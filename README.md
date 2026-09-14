@@ -33,14 +33,12 @@ Facebook-Messenger bleibt zum Schreiben mit privaten Kontakten offen.
   Plattformen abschaltbar, Startplattform wählbar.
 - **Werbung, Vorschläge, Reels, Storys** (Facebook) und **Spaces** (X)
   werden ausgeblendet.
-- **Read-only:** keine Posten-, Antworten- oder Teilen-Knöpfe; Reaktionen
-  per Schalter abschaltbar.
-- **Facebook-Messenger** bleibt voll nutzbar, inklusive Bildversand –
-  in den Einstellungen abschaltbar; dann verschwindet der Messenger-Button
-  und wird durch ein durchgestrichenes Symbol ersetzt.
-- **Facebook-Schnellzugriff (optional):** das Menü oben lässt sich durch
-  zwei Buttons ersetzen – „Gruppen“ (Gruppen-Feed) und „Seiten“ (abonnierte
-  Seiten).
+- **Streng zum Lesen ab Werk:** keine Posten-, Antworten- oder Teilen-Knöpfe;
+  Liken/Reagieren ist voreingestellt gesperrt, der Facebook-Messenger ist aus.
+  Beides lässt sich in den Einstellungen freischalten.
+- **Facebook-Messenger** (in den Einstellungen aktivierbar): dann voll
+  nutzbar inklusive Bildversand. Solange er aus ist, steht an seiner Stelle
+  ein durchgestrichenes, nicht klickbares Symbol.
 - **Cookie-Abfragen** der Plattformen werden nicht mehr weggeblendet; du
   entscheidest selbst über die Cookies.
 - **Fingerabdruck-Sperre**, erzwingbarer Dark Mode, old.reddit-Option,
