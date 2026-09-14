@@ -49,6 +49,8 @@ schaltet Reaktionen oder den Facebook-Messenger in den Einstellungen frei.
 - **Facebook-Messenger** (in den Einstellungen aktivierbar): dann voll
   nutzbar inklusive Bildversand. Solange er aus ist, steht an seiner Stelle
   ein durchgestrichenes, nicht klickbares Symbol.
+- **Deutsch oder Englisch** – Sprache oben rechts im Startbildschirm oder in
+  den Einstellungen umschaltbar (nur die App-Oberfläche).
 - **Cookie-Abfragen** der Plattformen werden nicht mehr weggeblendet; du
   entscheidest selbst über die Cookies.
 - **Fingerabdruck-Sperre**, erzwingbarer Dark Mode, old.reddit-Option,
