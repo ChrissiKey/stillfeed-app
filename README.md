@@ -8,9 +8,9 @@
 *Enjoy the (fast) silence.*
 
 Stillfeed bündelt vier soziale Netzwerke in einer ruhigen App zum Lesen.
-Werbung, Vorschlagsbeiträge und Reels werden ausgeblendet, Posten,
-Kommentieren und Reaktionen sind bewusst nicht möglich. Nur der
-Facebook-Messenger bleibt zum Schreiben mit privaten Kontakten offen.
+Werbung, Vorschlagsbeiträge, Reels, Storys und Spaces werden ausgeblendet;
+Posten, Kommentieren und Reaktionen sind ab Werk gesperrt. Wer möchte,
+schaltet Reaktionen oder den Facebook-Messenger in den Einstellungen frei.
 
 > Dies ist die öffentliche Download- und Feedback-Seite. Der Quellcode ist
 > privat. Stillfeed ist ein privates Heimprojekt, keine kommerzielle App.
@@ -46,7 +46,7 @@ Facebook-Messenger bleibt zum Schreiben mit privaten Kontakten offen.
 - **Datensparsam:** kein Server, keine Analyse, kein automatischer
   Kontozugriff.
 
-## Bekannte Probleme (Stand 0.43.0)
+## Bekannte Probleme (Stand 0.47.0)
 
 Ein Heimprojekt, im Alltag stabil, aber nicht überall zu 100 % perfekt:
 
