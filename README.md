@@ -15,6 +15,16 @@ schaltet Reaktionen oder den Facebook-Messenger in den Einstellungen frei.
 > Dies ist die öffentliche Download- und Feedback-Seite. Der Quellcode ist
 > privat. Stillfeed ist ein privates Heimprojekt, keine kommerzielle App.
 
+## So sieht es aus
+
+<p align="center">
+  <img src="screenshots/start.png" width="31%" alt="Startbildschirm">
+  <img src="screenshots/feed.png" width="31%" alt="Feed-Ansicht (Demo)">
+  <img src="screenshots/settings.png" width="31%" alt="Einstellungen">
+</p>
+
+<p align="center"><sub>Startbildschirm · Feed-Ansicht (Demo mit Platzhalter-Inhalt) · Einstellungen</sub></p>
+
 ## Installieren
 
 1. Unter [**Releases**](../../releases) die neueste Version öffnen.
