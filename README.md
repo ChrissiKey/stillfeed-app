@@ -43,19 +43,24 @@ Facebook-Messenger bleibt zum Schreiben mit privaten Kontakten offen.
 - **Datensparsam:** kein Server, keine Analyse, kein automatischer
   Kontozugriff.
 
-## Bekannte Probleme (Stand 0.42.0)
+## Bekannte Probleme (Stand 0.43.0)
 
 Ein Heimprojekt, im Alltag stabil, aber nicht überall zu 100 % perfekt:
 
-- **Instagram:** Ausgeblendete Anzeigen hinterlassen eine leere Lücke mit
-  dem Hinweis „Anzeige ausgeblendet“. Ein optionaler Einklappmodus in den
-  Einstellungen verkleinert sie (experimentell).
-- **X:** Das erste Video direkt nach dem Kaltstart bleibt gelegentlich kurz
-  schwarz und lädt sich dann nach wenigen Sekunden selbst neu.
-- **Facebook:** Vereinzelt lädt ein Bild erst beim Öffnen des Beitrags.
-- **Filter:** Direkt nach dem Laden dauert es einen Sekundenbruchteil, bis
-  Knöpfe verschwinden. Nicht jede Werbung wird sofort erkannt; die Filter
-  werden zentral nachgezogen, ohne dass es eine neue APK braucht.
+- **Reddit:** Direkt nach dem Start sind Beiträge manchmal noch nicht
+  anklickbar – ein kurzes Wischen behebt es sofort. Beim Öffnen eines
+  Beitrags dauert es kurz (unter einer Sekunde), bis der Posten-/Antworten-
+  Knopf verschwindet. GIFs starten nicht von selbst.
+- **X:** Ein Beitrag oder Video braucht gelegentlich einen kurzen Moment zum
+  Laden. Fotos und Bilder werden problemlos angezeigt.
+- **Facebook:** Das Antwortfeld ist beim Öffnen kurz sichtbar, bevor es
+  ausgeblendet wird (wie bei Reddit).
+- **Instagram:** Nach dem Ausblenden einer Anzeige bleibt eine kleine dunkle
+  Lücke stehen (stört im Alltag kaum). Werbung wird nicht immer sofort
+  erkannt; beim schnellen Scrollen kann das auffallen. Ein optionaler
+  Einklappmodus in den Einstellungen verkleinert die Lücke (experimentell).
+- **Filter:** Nicht jede Werbung wird sofort erkannt; die Filter werden
+  zentral nachgezogen, ohne dass es eine neue APK braucht.
 
 ## Feedback und Wünsche
 
