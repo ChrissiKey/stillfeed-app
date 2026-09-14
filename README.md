@@ -22,14 +22,6 @@
 > commenting: posting and commenting simply aren't there. Reactions (likes) can
 > optionally be enabled if you want – but nothing nudges you to.
 
-<p align="center">
-  <img src="screenshots/start.png" width="31%" alt="Startbildschirm / Welcome">
-  <img src="screenshots/feed.png" width="31%" alt="Feed-Ansicht (Demo) / Feed view (demo)">
-  <img src="screenshots/settings.png" width="31%" alt="Einstellungen / Settings">
-</p>
-
-<p align="center"><sub>Startbildschirm · Feed-Ansicht (Demo mit Platzhalter-Inhalt) · Einstellungen — Welcome · Feed view (demo content) · Settings</sub></p>
-
 > Dies ist die öffentliche Download- und Feedback-Seite. Der Quellcode ist
 > privat, ein privates Heimprojekt, keine kommerzielle App. — This is the public
 > download and feedback page. The source code is private; a personal hobby
@@ -46,6 +38,14 @@ Werbung, Vorschlagsbeiträge, Reels, Storys und Spaces werden ausgeblendet.
 Facebook-Messenger – bei Bedarf in den Einstellungen freischalten. Die App gibt
 es auf **Deutsch und Englisch** (Umschalter oben rechts im Startbildschirm oder
 in den Einstellungen).
+
+<p align="center">
+  <img src="screenshots/start.png" width="31%" alt="Startbildschirm">
+  <img src="screenshots/feed.png" width="31%" alt="Feed-Ansicht (Demo)">
+  <img src="screenshots/settings.png" width="31%" alt="Einstellungen">
+</p>
+
+<p align="center"><sub>Startbildschirm · Feed-Ansicht (Demo mit Platzhalter-Inhalt) · Einstellungen</sub></p>
 
 ### Installieren
 
@@ -118,6 +118,14 @@ ads, suggested posts, Reels, Stories and Spaces are hidden. **Reactions (likes)
 are blocked by default** and – like Facebook Messenger – can be enabled in the
 settings if you want. The app is available in **German and English** (switch at
 the top right of the welcome screen or in the settings).
+
+<p align="center">
+  <img src="screenshots/start-en.png" width="31%" alt="Welcome screen">
+  <img src="screenshots/feed-en.png" width="31%" alt="Feed view (demo)">
+  <img src="screenshots/settings-en.png" width="31%" alt="Settings">
+</p>
+
+<p align="center"><sub>Welcome screen · Feed view (demo content) · Settings</sub></p>
 
 ### Install
 
